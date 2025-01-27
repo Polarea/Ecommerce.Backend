@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YI18d8tkLQc=",
+  "success": true,
+  "projectFilePath": "D:\\Ecommerce\\Ecommerce.Backend\\Ecommerce.Api\\Ecommerce.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rizwa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\rizwa\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

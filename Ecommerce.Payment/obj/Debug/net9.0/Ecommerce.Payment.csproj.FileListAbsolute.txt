@@ -1,0 +1,11 @@
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Payment\bin\Debug\net9.0\Ecommerce.Payment.deps.json
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Payment\bin\Debug\net9.0\Ecommerce.Payment.dll
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Payment\bin\Debug\net9.0\Ecommerce.Payment.pdb
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Payment\obj\Debug\net9.0\Ecommerce.Payment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Payment\obj\Debug\net9.0\Ecommerce.Payment.AssemblyInfoInputs.cache
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Payment\obj\Debug\net9.0\Ecommerce.Payment.AssemblyInfo.cs
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Payment\obj\Debug\net9.0\Ecommerce.Payment.csproj.CoreCompileInputs.cache
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Payment\obj\Debug\net9.0\Ecommerce.Payment.dll
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Payment\obj\Debug\net9.0\refint\Ecommerce.Payment.dll
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Payment\obj\Debug\net9.0\Ecommerce.Payment.pdb
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Payment\obj\Debug\net9.0\ref\Ecommerce.Payment.dll

@@ -1,0 +1,11 @@
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Caching\bin\Debug\net9.0\Ecommerce.Caching.deps.json
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Caching\bin\Debug\net9.0\Ecommerce.Caching.dll
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Caching\bin\Debug\net9.0\Ecommerce.Caching.pdb
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Caching\obj\Debug\net9.0\Ecommerce.Caching.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Caching\obj\Debug\net9.0\Ecommerce.Caching.AssemblyInfoInputs.cache
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Caching\obj\Debug\net9.0\Ecommerce.Caching.AssemblyInfo.cs
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Caching\obj\Debug\net9.0\Ecommerce.Caching.csproj.CoreCompileInputs.cache
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Caching\obj\Debug\net9.0\Ecommerce.Caching.dll
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Caching\obj\Debug\net9.0\refint\Ecommerce.Caching.dll
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Caching\obj\Debug\net9.0\Ecommerce.Caching.pdb
+D:\Ecommerce\Ecommerce.Backend\Ecommerce.Caching\obj\Debug\net9.0\ref\Ecommerce.Caching.dll

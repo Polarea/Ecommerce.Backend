@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Api", "Ecommerce.Api\Ecommerce.Api.csproj", "{0F225460-8A4C-4456-B2B6-58964281E80E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Database", "Ecommerce.Database\Ecommerce.Database.csproj", "{6E1008EE-35A6-422C-8935-50396121EE02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Caching", "Ecommerce.Caching\Ecommerce.Caching.csproj", "{0F8CB434-D5F0-46DC-9EC6-7017A603D97E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Payment", "Ecommerce.Payment\Ecommerce.Payment.csproj", "{BCD9068E-61AD-4C08-9A28-AF6D4A02EF5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F225460-8A4C-4456-B2B6-58964281E80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F225460-8A4C-4456-B2B6-58964281E80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F225460-8A4C-4456-B2B6-58964281E80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F225460-8A4C-4456-B2B6-58964281E80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E1008EE-35A6-422C-8935-50396121EE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E1008EE-35A6-422C-8935-50396121EE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E1008EE-35A6-422C-8935-50396121EE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E1008EE-35A6-422C-8935-50396121EE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8CB434-D5F0-46DC-9EC6-7017A603D97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8CB434-D5F0-46DC-9EC6-7017A603D97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8CB434-D5F0-46DC-9EC6-7017A603D97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8CB434-D5F0-46DC-9EC6-7017A603D97E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD9068E-61AD-4C08-9A28-AF6D4A02EF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD9068E-61AD-4C08-9A28-AF6D4A02EF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD9068E-61AD-4C08-9A28-AF6D4A02EF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD9068E-61AD-4C08-9A28-AF6D4A02EF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
